@@ -4,6 +4,7 @@
   "description": "",
   "packageManager": "pnpm@7.5.2",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "abcd1234": "0,1"
   }
 }
