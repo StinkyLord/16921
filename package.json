@@ -3,11 +3,8 @@
   "version": "0.0.0",
   "description": "",
   "packageManager": "pnpm@7.5.2",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-  },
   "dependencies": {
     "six":"0.0.6",
-     "abcd1234": "0,1"
+     "pq": "0.0.1"
   }
 }
