@@ -5,6 +5,6 @@
   "packageManager": "pnpm@7.5.2",
   "dependencies": {
     "six":"0.0.6",
-     "pq": "0.0.1"
+     "pq": "0.0.3"
   }
 }
